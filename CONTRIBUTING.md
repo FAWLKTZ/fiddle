@@ -39,8 +39,8 @@ Here are some things to keep in mind as you file pull requests to fix bugs, add 
 
 ### Running Fiddle From Source
 
-1. Clone the Electron Fiddle repository locally.
-
+1. Clone the Electron STORAGE node server repository locally.
+changing Fiddle to  node#...
 ```sh
 git clone https://github.com/electron/fiddle.git
 ```
